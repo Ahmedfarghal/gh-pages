@@ -30,7 +30,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/Ahmedfarghal/gh-pages.git",
+  "homepage": "https://ahmedfarghal.github.io/gh-pages/",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
